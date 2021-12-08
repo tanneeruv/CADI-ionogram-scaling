@@ -4,4 +4,4 @@ Ionogram classification.py code describes the construction of Convolution Neural
 
 Scaling of frequency minimum and virtual height of various ionospheric layers is presented in Ionogram scaling.py. 
 
-An example data file (5D151100.md4) is included in the repository.
+An example CADI ionogram file (5D151100.md4) is included in the repository.
